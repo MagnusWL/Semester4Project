@@ -13,5 +13,6 @@ public class fuck {
     
     public fuck() {
         System.out.println("hej magnus");
+        System.out.println("Teeestt22");
     }
 }
