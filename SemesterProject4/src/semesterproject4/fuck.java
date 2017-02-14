@@ -15,6 +15,7 @@ public class fuck {
         System.out.println("hej magnus");
         System.out.println("Teeestt22");
         System.out.println("penis");
+        System.out.println("Commitshortcuts");
         System.out.println("HEJ HEJ HEJ HEJ HEJ");
     }
 }
