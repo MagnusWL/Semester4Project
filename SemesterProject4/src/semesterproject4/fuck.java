@@ -11,4 +11,7 @@ package semesterproject4;
  */
 public class fuck {
     
+    public fuck() {
+        System.out.println("hej magnus");
+    }
 }
