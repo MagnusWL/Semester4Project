@@ -11,11 +11,14 @@ package semesterproject4;
  */
 public class SemesterProject4 {
 
-    /**
-     * @param args the command line arguments
-     */
+    public static void fuck()
+    {
+        
+    }
     public static void main(String[] args) {
         // TODO code application logic here
+        
+      
     }
     
 }
